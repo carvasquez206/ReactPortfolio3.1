@@ -17,9 +17,8 @@ export const Container = styled.div`
     grid-row-gap: 0.5rem;
   }
 `;
-
 export const Span = styled.span`
-  font-size: 2rem;
+  font-size: 3rem;
 `;
 
 export const Div1 = styled.div`

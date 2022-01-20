@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() => window.location= 'https:google.com'}>Resume/CV</Button>
       </LeftSection>
     </Section>
   </>
