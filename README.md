@@ -1,12 +1,11 @@
 # ReactPortfolio3.1
 My Portfolio using ReactJS
 
+## Installations
+- Run `npm i`: initial downloads
+
 ## How to Run App in Terminal
 - Run `npm start`: To start server
-
-## Installations
-- 
-
 
 ## User Story
 
