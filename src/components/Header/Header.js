@@ -8,41 +8,41 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyle
 const Header = () =>  (
   <Container>
     <Div1>
-      <link href="/">
-      <a style={{ display:"flex", alignItems: "center", color: 'white'}}>
-        <DiCssdeck size="3rem"/> <span>Portfolio</span>
-      </a>
-      </link>
+      <Link href="/">
+        <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
+          <DiCssdeck size="3rem" /> <span>Portfolio</span>
+        </a>
+      </Link>
     </Div1>
     <Div2>
       <li>
-        <link href="#projects">
+        <Link href="#projects">
           <NavLink>Projects</NavLink>
-        </link>
+        </Link>
       </li>
       <li>
-        <link href="#tech">
+        <Link href="#tech">
           <NavLink>Technologies</NavLink>
-        </link>
-      </li>
+        </Link>
+      </li>        
       <li>
-        <link href="#about">
+        <Link href="#about">
           <NavLink>About</NavLink>
-        </link>
-      </li>
+        </Link>
+      </li>        
     </Div2>
-    <Div3>
-      <SocialIcons href="https://github.com">
-        <AiFillGithub size="3rem"/>
-      </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
-        <AiFillLinkedin size="3rem"/>
-      </SocialIcons>
-      <SocialIcons href="https://instagram.com">
-        <AiFillInstagram size="3rem"/>
-      </SocialIcons>
-    </Div3>
-  </Container>
+      <Div3>
+        <SocialIcons href="https://google.com">
+          <AiFillGithub size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://google.com">
+          <AiFillLinkedin size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://google.com">
+          <AiFillInstagram size="3rem"/>
+        </SocialIcons>
+      </Div3>
+    </Container>
 );
 
 export default Header;
