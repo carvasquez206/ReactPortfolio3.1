@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        Hello! My name is Carlos Vasquez. I'm a Full-Stack Web Developer. I'm currently enrolled in the UW Coding Bootcamp.
         </SectionText>
         <Button onClick={() => window.location= 'https:google.com'}>Resume/CV</Button>
       </LeftSection>

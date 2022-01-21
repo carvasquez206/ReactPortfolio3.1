@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white", marginBottom: '20;' }}>
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <DiCssdeck size="3rem" /> <Span>Carlos Vasquez</Span>
         </a>
       </Link>
     </Div1>
@@ -40,9 +40,6 @@ const Header = () =>  (
         </SocialIcons>
         <SocialIcons href="https://instagram.com">
           <AiFillInstagram size="3rem"/>
-        </SocialIcons>
-        <SocialIcons href="https://youtube.com">
-          <AiFillYoutube size="3rem"/>
         </SocialIcons>
       </Div3>
     </Container>
