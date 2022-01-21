@@ -5,7 +5,7 @@ My Portfolio using ReactJS
 - Run `npm i`: initial downloads
 
 ## How to Run App in Terminal
-- Run `npm start`: To start server
+- Run `npm run dev`: To start server using NextJS
 
 ## User Story
 
