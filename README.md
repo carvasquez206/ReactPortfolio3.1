@@ -45,7 +45,8 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 ### Screenshot
-* 
+* ![PortfolioScreenshot](https://user-images.githubusercontent.com/63617482/150629517-164de2dc-387f-42c1-9098-eaee70a4e4a3.png)
+
 
 ### Github Repository
 * https://github.com/carvasquez206/ReactPortfolio3.1
