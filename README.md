@@ -55,4 +55,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 * https://carvasquez206.github.io/ReactPortfolio3.1/
 
 ### Heroku
-* Working on this
+* https://carlosvasquez-portfolio.herokuapp.com/
